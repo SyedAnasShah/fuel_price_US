@@ -123,3 +123,4 @@ class RouteFuelAPIView(APIView):
             return r.json()["features"][0]["geometry"]["coordinates"]
 
         return [get_coords(start), get_coords(finish)]
+    
