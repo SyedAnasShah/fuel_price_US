@@ -1,0 +1,7 @@
+Django
+djangorestframework
+requests
+polyline
+pandas
+shapely
+python-dotenv
